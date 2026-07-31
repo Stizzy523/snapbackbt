@@ -75,8 +75,9 @@ nav {
 .hero {
     min-height: 65vh;
     padding: 80px 24px;
-    display: grid;
-    place-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     background: #58D0DC;
 }

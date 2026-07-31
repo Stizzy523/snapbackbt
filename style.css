@@ -81,7 +81,9 @@ nav {
 }
 
 .hero div {
+    width: 100%;
     max-width: 750px;
+    margin: 0 auto;
 }
 
 .hero h1 {

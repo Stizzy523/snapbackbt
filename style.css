@@ -44,6 +44,11 @@ nav {
     width: auto;
 }
 
+.logo span {
+    color: #343A40;
+    display: inline;
+}
+
 .nav-links {
     display: flex;
     gap: 20px;

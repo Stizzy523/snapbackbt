@@ -29,6 +29,10 @@ nav {
 }
 
 .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
     color: white;
     font-size: 1.2rem;
     font-weight: bold;

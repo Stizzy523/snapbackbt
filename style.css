@@ -111,6 +111,7 @@ nav {
     width: min(1100px, 100%);
     margin: auto;
     border-top: 2px solid #343A40;
+    border-bottom: 2px solid #343A40;
     padding: 60px 24px;
 }
 

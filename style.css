@@ -110,17 +110,21 @@ nav {
 
 .section {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 60px 24px;
+    margin: 0;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: max(24px, calc((100% - 1100px) / 2 + 24px));
+    padding-right: max(24px, calc((100% - 1100px) / 2 + 24px));
     border-top: 2px solid #343A40;
 }
 
 .alternate {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 60px 24px;
+    margin: 0;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: max(24px, calc((100% - 1100px) / 2 + 24px));
+    padding-right: max(24px, calc((100% - 1100px) / 2 + 24px));
     background: #58D0DC;
 }
 

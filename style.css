@@ -62,6 +62,7 @@ nav {
     margin: 10px 0;
     font-size: clamp(2.5rem, 7vw, 5rem);
     line-height: 1;
+    color: #343A40;
 }
 
 .eyebrow {

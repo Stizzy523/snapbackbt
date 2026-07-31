@@ -110,7 +110,8 @@ nav {
 .section {
     width: min(1100px, 100%);
     margin: auto;
-    padding: 70px 24px;
+    border-top: 2px solid #343A40;
+    padding: 60px 24px;
 }
 
 .alternate {

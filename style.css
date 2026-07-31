@@ -115,7 +115,7 @@ nav {
 }
 
 .alternate {
-    width: min(1100px, 100%);
+    width: 100%;
     border-top: 2px solid #343A40;
     background: #58D0DC;
 }
